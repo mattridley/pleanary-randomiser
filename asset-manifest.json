@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/pleanary-randomiser/static/js/main.80755f6d.chunk.js",
+    "main.js.map": "/pleanary-randomiser/static/js/main.80755f6d.chunk.js.map",
+    "runtime~main.js": "/pleanary-randomiser/static/js/runtime~main.d9846064.js",
+    "runtime~main.js.map": "/pleanary-randomiser/static/js/runtime~main.d9846064.js.map",
+    "static/js/2.f7b861d8.chunk.js": "/pleanary-randomiser/static/js/2.f7b861d8.chunk.js",
+    "static/js/2.f7b861d8.chunk.js.map": "/pleanary-randomiser/static/js/2.f7b861d8.chunk.js.map",
+    "index.html": "/pleanary-randomiser/index.html",
+    "precache-manifest.74d3262dc8300940ed2e1e63fc8ac0af.js": "/pleanary-randomiser/precache-manifest.74d3262dc8300940ed2e1e63fc8ac0af.js",
+    "service-worker.js": "/pleanary-randomiser/service-worker.js"
+  }
+}
