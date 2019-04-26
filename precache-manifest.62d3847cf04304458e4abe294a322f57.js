@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f65a98b18c1c0c0161840ac3c4b3635b",
+    "revision": "0f7babeb4cec564bd10bdb9d8d2ec39b",
     "url": "/pleanary-randomiser/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pleanary-randomiser/static/js/2.f7b861d8.chunk.js"
   },
   {
-    "revision": "7d0c44db5b527c6bd9fe",
-    "url": "/pleanary-randomiser/static/js/main.df434c2f.chunk.js"
+    "revision": "3f3baf76e61bae92a429",
+    "url": "/pleanary-randomiser/static/js/main.83cd1788.chunk.js"
   },
   {
     "revision": "b24229ff95afb75088fe",
