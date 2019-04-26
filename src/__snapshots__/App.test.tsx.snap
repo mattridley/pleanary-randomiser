@@ -1,0 +1,189 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="css-17t95uv-root"
+  >
+    <table
+      class="css-1pnottq-Table et0qlwd0"
+    >
+      <tbody>
+        <tr>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              Explain what you learnt today
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              What would you do differently next time?
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              List 3 key words from today
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              What skills have you developed this lesson?
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              How do you know you have progressed?
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              What has really stuck with you today?
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              Describe the lesson using three adjectives
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              What do you need to practice more?
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              Is there anything you did not understand today?
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              Have you learnt something new this lesson?
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              What was your contribution to the lesson?
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              How could today's lesson be improved?
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              Is there a key fact you remember from today?
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              What question(s) do you still have?
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              How would you describe your effort this lesson?
+            </div>
+          </td>
+          <td
+            class="css-b1baov-Cell"
+            data-testid="false"
+          >
+            <div
+              class="css-1ez1ods-content"
+            >
+              What went well today for you?
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <button
+      class="css-ae2djk-Button e1gz2b3x0"
+    >
+      SPIN
+    </button>
+  </div>
+</DocumentFragment>
+`;
