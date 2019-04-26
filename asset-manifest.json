@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/pleanary-randomiser/static/js/main.83cd1788.chunk.js",
-    "main.js.map": "/pleanary-randomiser/static/js/main.83cd1788.chunk.js.map",
-    "runtime~main.js": "/pleanary-randomiser/static/js/runtime~main.d9846064.js",
-    "runtime~main.js.map": "/pleanary-randomiser/static/js/runtime~main.d9846064.js.map",
-    "static/js/2.f7b861d8.chunk.js": "/pleanary-randomiser/static/js/2.f7b861d8.chunk.js",
-    "static/js/2.f7b861d8.chunk.js.map": "/pleanary-randomiser/static/js/2.f7b861d8.chunk.js.map",
-    "index.html": "/pleanary-randomiser/index.html",
-    "precache-manifest.62d3847cf04304458e4abe294a322f57.js": "/pleanary-randomiser/precache-manifest.62d3847cf04304458e4abe294a322f57.js",
-    "service-worker.js": "/pleanary-randomiser/service-worker.js"
+    "main.js": "/plenary-randomiser/static/js/main.df434c2f.chunk.js",
+    "main.js.map": "/plenary-randomiser/static/js/main.df434c2f.chunk.js.map",
+    "runtime~main.js": "/plenary-randomiser/static/js/runtime~main.55248693.js",
+    "runtime~main.js.map": "/plenary-randomiser/static/js/runtime~main.55248693.js.map",
+    "static/js/2.f7b861d8.chunk.js": "/plenary-randomiser/static/js/2.f7b861d8.chunk.js",
+    "static/js/2.f7b861d8.chunk.js.map": "/plenary-randomiser/static/js/2.f7b861d8.chunk.js.map",
+    "index.html": "/plenary-randomiser/index.html",
+    "precache-manifest.325b8b38b9c08425c4cfe41fd66a974d.js": "/plenary-randomiser/precache-manifest.325b8b38b9c08425c4cfe41fd66a974d.js",
+    "service-worker.js": "/plenary-randomiser/service-worker.js"
   }
 }
