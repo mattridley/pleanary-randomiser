@@ -28,7 +28,7 @@
     "prettier": "^1.17.0",
     "react-testing-library": "^7.0.0"
   },
-  "homepage": "https://mattridley.github.io/plenary-randomiser",
+  "homepage": "https://plenary.ridley.dev",
   "browserslist": {
     "production": [
       ">0.2%",
